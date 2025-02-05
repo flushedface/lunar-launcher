@@ -2,7 +2,7 @@
 <resources>
     <string name="owm_key">OWM API-Schlüssel</string>
     <string name="center">Center</string>
-    <string name="reset_message">Warnung! Diese Operation löscht alle Daten von dieser App! Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="reset_message">Warnung! Diese Aktion löscht alle Daten von dieser App! Dies kann nicht rückgängig gemacht werden.</string>
     <string name="time_date">Zeit — Datum</string>
     <string name="icon_pack_not_found">Sie haben leider kein Icon-Pack installiert.</string>
     <string name="default_">Standart</string>
@@ -30,7 +30,7 @@
     <string name="restart_message">Die Änderungen werden erst nach Neustart der App übernommen. Jetzt neu starten\?</string>
     <string name="welcome_description">Willkommen bei Lunar Launcher.
 \n
-\n Nachdem Sie dieses Dialogfeld geschlossen haben, werden Sie aufgefordert, die erforderlichen Berechtigungen zu erteilen, damit die App wie erwartet funktioniert.
+\n Nachdem Sie dieses Dialogfeld geschlossen haben, werden Sie aufgefordert, die erforderlichen Berechtigungen zu erteilen, damit die App richtig funktioniert.
 \n
 \n <li><b>Systemeinstellungen ändern –</b> Um die Helligkeit mit einem Schieberegler zu steuern</li>
 \n <li><b>Telefon –</b> Zum Tätigen von Anrufen über Verknüpfungen</li>
@@ -41,18 +41,18 @@
 \n <li>Nach oben wischen – Schnellzugriffsdialog</li>
 \n <li>Nach unten wischen – Benachrichtigungsfeld</li>
 \n <li>Nach rechts wischen – Feeds</li>
-\n <li>Nach links wischen – App-Schublade</li>
+\n <li>Nach links wischen – App-Ansicht</li>
 \n <li>Tippen und halten Sie die Batterieanzeige – Launcher-Einstellungen</li>
 \n <li>Tippen und halten Sie den unteren Teil des Bildschirms – To-Do-Manager</li>
 \n <li>Doppeltippen – Gerätesperre/Ruhezustand (in den Einstellungen aktivieren)</li>
 \n <li>Tippen Sie auf den Favoriten und halten Sie es gedrückt – Favorit entfernen</li>
 \n
-\n Weitere Informationen auf der Wiki-Seite auf GitHub. </string>
+\n Weitere Informationen auf der Wiki-Seite, auf GitHub. </string>
     <string name="total">Total</string>
     <string name="list_with_icon">Liste mit Symbolen</string>
     <string name="hide_status_bar">Statusleiste verstecken</string>
     <string name="twelve">12-Stunden</string>
-    <string name="empty_text_field">Das Eingabefeld ist leer</string>
+    <string name="empty_text_field">Eingabefeld ist leer</string>
     <string name="choose_launcher">Standart-Launcher wählen</string>
     <string name="rss_feed">RSS-Feed</string>
     <string name="restart_now">Jetzt neu starten\?</string>
@@ -63,7 +63,7 @@
     <string name="icon_size">Verknüpfung &amp; App-Icon Größe</string>
     <string name="advance">Erweitert</string>
     <string name="choose_icon_pack">Icon-Pack wählen</string>
-    <string name="app_drawer_layout">Aussehen des App-Drawers</string>
+    <string name="app_drawer_layout">Aussehen der App-Ansicht</string>
     <string name="got_it">Fortfahren</string>
     <string name="app_info">App-Info-Fenster öffnen</string>
     <string name="show_city">Stadtname mit Wetter zeigen</string>
@@ -71,21 +71,21 @@
     <string name="source_code">Quellcode</string>
     <string name="device_admin">Geräteadministratoren</string>
     <string name="todo_manager_lock">To-Do Manager Sperren</string>
-    <string name="freeform">In pip Modus öffnen</string>
+    <string name="freeform">In Bild-Im-Bild Modus öffnen</string>
     <string name="delete">Löschen</string>
     <string name="scrollbar_height">Höhe der A bis Z Scroll-Leiste</string>
     <string name="authentication_failed">Authentifizierungsfehler</string>
     <string name="support">Support</string>
     <string name="version">Version</string>
     <string name="url">URL</string>
-    <string name="frequency">Wiederholungszahl</string>
+    <string name="frequency">Frequenz</string>
     <string name="delete_all_confirmation">Alle To-Do Eingaben löschen\?</string>
     <string name="weather">Wetter</string>
     <string name="something_went_wrong">Leider ist etwas schief gelaufen</string>
     <string name="contact">Kontakte</string>
     <string name="star">Favorit</string>
     <string name="uninstall">App deinstallieren</string>
-    <string name="app_store">Auf App-Market anzeigen</string>
+    <string name="app_store">Im App-Store anzeigen</string>
     <string name="developer_name">Entwickelt von Md. Rasel Hossian</string>
     <string name="misc_info_titles">Hochgefahren seit
 \nSystem Aktiv
@@ -98,7 +98,7 @@
     <string name="used">Verwendet</string>
     <string name="about">Über</string>
     <string name="restart">Neustart</string>
-    <string name="app_drawer">App-Drawer</string>
+    <string name="app_drawer">App-Ansicht</string>
     <string name="telegram_group">Telegramgruppe</string>
     <string name="first_install">Erste Installation</string>
     <string name="detailed_info">Detailinfos anzeigen</string>
@@ -106,26 +106,26 @@
     <string name="left">Links</string>
     <string name="lunar_settings">Lunar-Einstellungen</string>
     <string name="root">Root</string>
-    <string name="free">Kostenlos</string>
+    <string name="free">frei</string>
     <string name="twenty_four">24-Stunden</string>
     <string name="background">Hintergrund</string>
     <string name="move_up">Hochbewegen</string>
-    <string name="dark_theme">Dunkelmodus</string>
+    <string name="dark_theme">Dunkelenmodus</string>
     <string name="todo">To-Do</string>
     <string name="move_down">Runterbewegen</string>
     <string name="accessibility_service_description">Lunar Launcher erlauben, das Gerät in den Ruhezustand zu versetzen (API 28+).</string>
     <string name="proceed">Fortfahren</string>
-    <string name="follow_system">System folgen</string>
+    <string name="follow_system">Dem System folgen</string>
     <string name="search_with_keyboard">Mit Tastatur starten</string>
     <string name="support_message">Hilf dem Entwickler die App Kostenlos und am leben zu halten
 \n
 \n<li><b>Spenden:</b> Wenn möglich, direkt Spenden.</li>
 \n<li><b>Amazon:</b> Nutze den Link um den Entwickler beim Shoppen zu unterstützen.</li>
-\n<li><b>Star:</b> Star auf GitHub um deine Unterstützung zu zeigen.</li> </string>
+\n<li><b>Star:</b> Setze ein Stern auf GitHub um deine Unterstützung zu zeigen.</li> </string>
     <string name="list">Liste</string>
     <string name="grid">Tabelle</string>
     <string name="donate">Spenden</string>
-    <string name="delete_all">Alle löschen</string>
+    <string name="delete_all">Alles löschen</string>
     <string name="date_format">Datumsformat</string>
     <string name="increase_height">Höhe erhöhen</string>
     <string name="grid_columns_count">Keine Tabellenspalten</string>
