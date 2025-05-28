@@ -92,7 +92,7 @@
     <string name="null_app_store_message">
         Couldn\'t find any app store on this device.
     </string>
-    <string name="owm_key">OWM API Key</string>
+    <string name="weather_api_key">Weather API Key</string>
     <string name="positive">Positive</string>
     <string name="proceed">Proceed</string>
     <string name="quick_launch">Quick Launch</string>
