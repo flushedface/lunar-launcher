@@ -1,17 +1,4 @@
-<div align='center'>
-	<img src='fastlane/metadata/android/en-US/images/icon.png' alt='Lunar Launcher' width='100' height='100'>
-    <h2>Lunar Launcher</h2>
-    <p>
-        <img src='https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white'>
-        <img src='https://img.shields.io/badge/SDK-26-vibrant?style=flat-square'>
-        <a href='https://github.com/iamrasel/lunar-launcher/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square'></a>
-        <br>
-		<a href='https://hosted.weblate.org/engage/lunar-launcher/'><img src='https://img.shields.io/weblate/progress/lunar-launcher?style=flat-square&label=Translated&color=4DCCAA' alt='Oversettelsesstatus' /></a>
-        <a href='https://github.com/iamrasel/lunar-launcher/actions'><img src='https://img.shields.io/github/actions/workflow/status/iamrasel/lunar-launcher/ci_push.yml?branch=main&style=flat-square&label=Build'></a>
-	<a href='https://github.com/iamrasel/lunar-launcher/releases/latest'><img src='https://img.shields.io/github/downloads/iamrasel/lunar-launcher/total?style=flat-square&label=Downloads'></a>
-    </p>
-	<a href="https://www.buymeacoffee.com/iamrasel"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iamrasel&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-</div>
+# LunarLauncherFork
 
 ## Features
 <details><summary>Global</summary>
@@ -45,6 +32,10 @@
   - [ ] Auto destructive todo with notify
   - [x] 0–7 items in home screen
   - [x] Access lock
+  - [ ] Fix System Readings
+  - [ ] More Weather Providers
+  - [ ] Multiple RSS Feeds
+  - [ ] Suckless Plugin System
 
 </details>
 <details><summary>App Drawer</summary>
@@ -57,7 +48,7 @@
 - [ ] App grid with icon (alternative)
 - [ ] App appearance
 - [ ] App renaming
-- [ ] App vault
+- [ ] Android 15 Secure Folders
 - [x] Detailed app info
 
 </details>
@@ -98,7 +89,7 @@ To know more, explore and see for yourself.
 </table>
 
 ## Downloads
-To get updated with the latest build, head over to the [Actions](https://github.com/iamrasel/lunar-launcher/actions) tab and choose the latest workflow build from there.
+To get updated with the latest build, head over to the [Actions]() tab and choose the latest workflow build from there.
 <div align='center'>
 
 <a href='https://github.com/iamrasel/lunar-launcher/releases/latest'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
