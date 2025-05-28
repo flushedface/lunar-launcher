@@ -148,7 +148,7 @@
     <string name="wallpaper_change_success">Wallpaper changed</string>
     <string name="weather">Weather</string>
     <string name="welcome">Welcome</string>
-    <string name="welcome_description">Welcome to Lunar Launcher.
+    <string name="welcome_description">Welcome to Lunar Launcher Fork.
         \n\nAfter closing this dialog, you will be asked to grant permissions needed for the app to work as expected.
         \n\n<li><b>Modify system settings —</b> To control brightness using a slider</li>
         \n<li><b>Phone —</b> To make call from shortcuts</li>
