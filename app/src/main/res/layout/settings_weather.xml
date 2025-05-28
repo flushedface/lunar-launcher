@@ -29,7 +29,7 @@
         android:layout_width="@dimen/threeTwentyFour"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/twelve"
-        android:hint="@string/owm_key"
+        android:hint="@string/weather_api_key"
         app:endIconMode="clear_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
