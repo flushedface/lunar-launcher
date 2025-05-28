@@ -1,11 +1,15 @@
 # LunarLauncherFork
 
 ## Features
+
 <details><summary>Planned</summary>
-	- [ ] Fix System Readings
-	- [ ] More Weather Providers
-	- [ ] Multiple RSS Feeds
-	- [ ] Suckless Plugin System 
+
+- [ ] More Weather Endpoints
+- [ ] Widget Support
+- [ ] Fixed System Insights
+- [ ] Multiple RSS Feeds
+- [ ] Shortcut Support
+
 </details>
 
 <details><summary>Global</summary>
