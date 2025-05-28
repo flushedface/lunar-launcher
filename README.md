@@ -32,10 +32,10 @@
   - [ ] Auto destructive todo with notify
   - [x] 0–7 items in home screen
   - [x] Access lock
-  - [ ] Fix System Readings
-  - [ ] More Weather Providers
-  - [ ] Multiple RSS Feeds
-  - [ ] Suckless Plugin System
+- [ ] Fix System Readings
+- [ ] More Weather Providers
+- [ ] Multiple RSS Feeds
+- [ ] Suckless Plugin System 
 
 </details>
 <details><summary>App Drawer</summary>
