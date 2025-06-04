@@ -98,6 +98,13 @@ internal class LauncherActivity : AppCompatActivity() {
         handleBackPress()
     }
 
+   override fun onRestoreInstanceState(savedInstanceState: Bundle?) {
+    super.onRestoreInstanceState(savedInstanceState)
+    appWidgetHost?.startListening()
+    binding = LauncherActivityBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+}
+
     override fun onDestroy() {
         super.onDestroy()
         appWidgetHost?.stopListening()
@@ -108,7 +115,6 @@ internal class LauncherActivity : AppCompatActivity() {
         if (settingsPrefs.getBoolean(KEY_BACK_HOME, false)) viewPager.currentItem = 1
         statusBarView()
         setBgColor()
-        setContentView(savedInstanceState)
     }
 
     override fun onPause() {
