@@ -108,10 +108,11 @@ internal class LauncherActivity : AppCompatActivity() {
         if (settingsPrefs.getBoolean(KEY_BACK_HOME, false)) viewPager.currentItem = 1
         statusBarView()
         setBgColor()
+        setContentView(savedInstanceState)
     }
 
     override fun onPause() {
-        super.onDestroy()
+        super.onPause()
         appWidgetHost?.stopListening()
     }
 
