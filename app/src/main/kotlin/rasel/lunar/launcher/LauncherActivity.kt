@@ -110,6 +110,11 @@ internal class LauncherActivity : AppCompatActivity() {
         setBgColor()
     }
 
+    override fun onPause() {
+        super.onDestroy()
+        appWidgetHost?.stopListening()
+    }
+
     private fun welcomeDialog() {
         getSharedPreferences(PREFS_FIRST_LAUNCH, 0).let {
             if (it.getBoolean(KEY_FIRST_LAUNCH, true)) {
